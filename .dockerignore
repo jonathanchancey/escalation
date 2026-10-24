@@ -1,0 +1,7 @@
+.git
+.github
+.amp
+escalation
+.env
+*.env
+kubeconfig

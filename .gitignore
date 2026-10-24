@@ -1,0 +1,5 @@
+/escalation
+.env
+*.env
+kubeconfig
+.amp/
